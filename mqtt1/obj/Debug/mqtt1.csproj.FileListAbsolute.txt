@@ -1,0 +1,14 @@
+F:\xiketang\mqtt1\mqtt1\obj\Debug\mqtt1.csproj.AssemblyReference.cache
+F:\xiketang\mqtt1\mqtt1\obj\Debug\mqtt1.csproj.SuggestedBindingRedirects.cache
+F:\xiketang\mqtt1\mqtt1\obj\Debug\mqtt1.Server.resources
+F:\xiketang\mqtt1\mqtt1\obj\Debug\mqtt1.Properties.Resources.resources
+F:\xiketang\mqtt1\mqtt1\obj\Debug\mqtt1.csproj.GenerateResource.cache
+F:\xiketang\mqtt1\mqtt1\obj\Debug\mqtt1.csproj.CoreCompileInputs.cache
+F:\xiketang\mqtt1\mqtt1\bin\Debug\mqtt1.exe.config
+F:\xiketang\mqtt1\mqtt1\bin\Debug\mqtt1.exe
+F:\xiketang\mqtt1\mqtt1\bin\Debug\mqtt1.pdb
+F:\xiketang\mqtt1\mqtt1\bin\Debug\MQTTnet.dll
+F:\xiketang\mqtt1\mqtt1\obj\Debug\mqtt1.csproj.CopyComplete
+F:\xiketang\mqtt1\mqtt1\obj\Debug\mqtt1.exe
+F:\xiketang\mqtt1\mqtt1\obj\Debug\mqtt1.pdb
+F:\xiketang\mqtt1\mqtt1\obj\Debug\mqtt1.Frm_Client.resources
