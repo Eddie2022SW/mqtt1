@@ -100,7 +100,7 @@ namespace mqtt1
         {
 
             txtMsg.Invoke(new Action(()=>{
-                txtMsg.Text+=e.ApplicationMessage.ToString()+"\r\n";
+                txtMsg.Text+="数据为："+e.ApplicationMessage.ToString()+"\r\n";
             }));
             // MessageBox.Show($"{e.ApplicationMessage.Topic.ToString()}" );
      
